@@ -12,7 +12,9 @@ DLLs for Windows (32-bit and 64-bit)
 ------------------------------------
 
 The DLLs were created on a Debian GNU/Linux system using
-[MXE](http://mxe.cc/) with the following commands (after installing the
+[MXE](http://mxe.cc/) (??? this version, using
+[libsndfile-1.0.26.tar.gz](http://www.mega-nerd.com/libsndfile/files/libsndfile-1.0.26.tar.gz))
+with the following commands (after installing the
 [dependencies](http://mxe.cc/#requirements)):
 
     JOBS=8
